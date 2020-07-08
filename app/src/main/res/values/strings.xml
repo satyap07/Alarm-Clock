@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="ringtone_preference">Ringtone Preference</string>
+</resources>
